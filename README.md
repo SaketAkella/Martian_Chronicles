@@ -15,7 +15,7 @@ This allows the user to download and view the images simultaneously. The fetch b
 ### 3.Sending emails--->
 There's another pushbutton placed in the same window as the image viewing page, this is the send mail button that will direct the user to email sending page. This allows the user to give the subject, body and recipients list. There's a home button that will direct teh user to the first page of the app if he wishes so.
 
-nclusion:
+## Conclusion:
 
 I've genuinely enjoyed the process of learning and the making of the app, it was informativie and satisfying. Looking forward to meet you guys at the club.
 
